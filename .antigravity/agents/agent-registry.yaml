@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-libya-canal-and-intervention-historian
-  name: Libya Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-libya-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ly_001
+    name: Libya Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_002
+    name: Libya Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_003
+    name: Libya Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_004
+    name: Libya Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_005
+    name: Libya Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_006
+    name: Libya Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_007
+    name: Libya Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_008
+    name: Libya Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_009
+    name: Libya Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_010
+    name: Libya Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_011
+    name: Libya Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_012
+    name: Libya Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_013
+    name: Libya Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_014
+    name: Libya Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_015
+    name: Libya Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_016
+    name: Libya Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_017
+    name: Libya Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_018
+    name: Libya Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_019
+    name: Libya Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_020
+    name: Libya Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_021
+    name: Libya Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_022
+    name: Libya Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_023
+    name: Libya Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_024
+    name: Libya Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_025
+    name: Libya Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_026
+    name: Libya Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_027
+    name: Libya Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_028
+    name: Libya Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_029
+    name: Libya Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_030
+    name: Libya Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_031
+    name: Libya Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_032
+    name: Libya Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_033
+    name: Libya Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_034
+    name: Libya Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_035
+    name: Libya Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_036
+    name: Libya Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_037
+    name: Libya Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_038
+    name: Libya Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_039
+    name: Libya Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_040
+    name: Libya Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_041
+    name: Libya Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_042
+    name: Libya Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_043
+    name: Libya Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_044
+    name: Libya Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_045
+    name: Libya Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_046
+    name: Libya Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_047
+    name: Libya Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_048
+    name: Libya Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_049
+    name: Libya Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_050
+    name: Libya Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_051
+    name: Libya Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_052
+    name: Libya Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_053
+    name: Libya Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_054
+    name: Libya Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_055
+    name: Libya Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_056
+    name: Libya Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_057
+    name: Libya Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_058
+    name: Libya Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_059
+    name: Libya Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_060
+    name: Libya Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_061
+    name: Libya Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_062
+    name: Libya Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_063
+    name: Libya Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_064
+    name: Libya Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_065
+    name: Libya Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_066
+    name: Libya Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_067
+    name: Libya Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_068
+    name: Libya Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_069
+    name: Libya Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_070
+    name: Libya Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_071
+    name: Libya Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_072
+    name: Libya Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_073
+    name: Libya Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_074
+    name: Libya Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_075
+    name: Libya Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_076
+    name: Libya Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_077
+    name: Libya Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_078
+    name: Libya Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_079
+    name: Libya Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_080
+    name: Libya Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_081
+    name: Libya Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_082
+    name: Libya Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_083
+    name: Libya Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_084
+    name: Libya Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_085
+    name: Libya Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_086
+    name: Libya Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_087
+    name: Libya Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_088
+    name: Libya Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_089
+    name: Libya Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_090
+    name: Libya Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_091
+    name: Libya Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_092
+    name: Libya Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_093
+    name: Libya Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_094
+    name: Libya Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_095
+    name: Libya Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_096
+    name: Libya Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_097
+    name: Libya Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_098
+    name: Libya Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_099
+    name: Libya Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_100
+    name: Libya Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_101
+    name: Libya Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_102
+    name: Libya Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_103
+    name: Libya Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_104
+    name: Libya Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_105
+    name: Libya Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_106
+    name: Libya Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_107
+    name: Libya Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_108
+    name: Libya Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_109
+    name: Libya Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_110
+    name: Libya Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_111
+    name: Libya Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_112
+    name: Libya Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_113
+    name: Libya Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_114
+    name: Libya Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_115
+    name: Libya Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_116
+    name: Libya Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_117
+    name: Libya Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_118
+    name: Libya Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_119
+    name: Libya Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_120
+    name: Libya Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_121
+    name: Libya Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_122
+    name: Libya Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_123
+    name: Libya Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_124
+    name: Libya Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_125
+    name: Libya Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_126
+    name: Libya Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_127
+    name: Libya Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_128
+    name: Libya Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_129
+    name: Libya Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_130
+    name: Libya Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_131
+    name: Libya Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_132
+    name: Libya Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_133
+    name: Libya Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_134
+    name: Libya Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_135
+    name: Libya Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_136
+    name: Libya Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_137
+    name: Libya Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_138
+    name: Libya Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_139
+    name: Libya Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_140
+    name: Libya Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_141
+    name: Libya Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_142
+    name: Libya Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_143
+    name: Libya Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_144
+    name: Libya Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_145
+    name: Libya Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_146
+    name: Libya Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_147
+    name: Libya Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_148
+    name: Libya Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_149
+    name: Libya Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_150
+    name: Libya Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_151
+    name: Libya Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_152
+    name: Libya Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_153
+    name: Libya Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_154
+    name: Libya Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_155
+    name: Libya Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_156
+    name: Libya Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_157
+    name: Libya Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_158
+    name: Libya Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_159
+    name: Libya Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_160
+    name: Libya Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_161
+    name: Libya Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_162
+    name: Libya Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_163
+    name: Libya Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_164
+    name: Libya Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_165
+    name: Libya Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_166
+    name: Libya Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_167
+    name: Libya Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_168
+    name: Libya Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_169
+    name: Libya Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ly_170
+    name: Libya Agent 170
+    status: ACTIVE_SCAFFOLD

@@ -3,7 +3,7 @@
 **Country Key:** US_LY_LIBYA
 **ISO Code:** LY/LBY
 **Historical Arc:** 1951-2026
-**Restitution Pool:** $60.00B
+**Restitution Pool:** TBD (valuation pending)
 **Instruments:** 15
 
 ## Primary Judgment

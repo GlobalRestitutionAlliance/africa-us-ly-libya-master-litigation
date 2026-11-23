@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/libya",
+  "final_url": "https://data.worldbank.org/country/libya",
+  "title": "World Bank Libya",
+  "fetched_at": "2026-11-23T06:35:57.903545Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44500,
+  "sha256": "ec6bc4cabd66ed863e341856b02d9130dd990514c9919c840a869019bfa72188",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

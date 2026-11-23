@@ -38,3 +38,8 @@
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
+
+
+## Wave 4 reconciliation 2026-11-23
+- Reconciled citation index, substantive/challenge flags, and pending recapture register.
+- No fabricated citations/IDs/amounts; all captures PUBLIC_CAPTURE_UNAUTHENTICATED pending legal review.

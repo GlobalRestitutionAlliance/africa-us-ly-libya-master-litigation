@@ -1,0 +1,8 @@
+repo,url,title,status,reason,notes,last_attempt
+US_LY_LIBYA,https://chroniclingamerica.loc.gov/,Chronicling America LOC,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://www.courtlistener.com/,CourtListener,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://www.justia.com/,Justia,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://www.loc.gov/item/?q=libya+italian+colonial,Library of Congress - Libya,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://digitallibrary.un.org/,UN Digital Library,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://data.worldbank.org/country/libya,World Bank Libya,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LY_LIBYA,https://www.archivi.beniculturali.it/,Italian National Archives (public portal),NO_CAPTURE,ERR_CERT_DATE_INVALID TLS/cert rejection; pending recapture,No local artifact captured; honest pending recapture.,2026-11-23
